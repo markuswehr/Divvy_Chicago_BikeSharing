@@ -16,6 +16,15 @@ To assist with the expansion plan, our team developed a relational database that
 - Provide data analysis and visualization
 - Put forward a future state blueprint for the new stations and bikes allocation process
 
+## Data
+1. Divvy trip
+2. Divvy station
+3. Weather
+4. Bike racks
+5. Population
+6. Bike route
+7. Zipcode
+
 ## Tools
 - OpenRefine
 - SQL
